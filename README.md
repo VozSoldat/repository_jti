@@ -1,4 +1,5 @@
-<middle> # Repositori Proyek Basis Data</middle>
+# <center>Repositori Proyek Basis Data</center>
+
 - Anya
 - Muhammad Erril
 - Romy
